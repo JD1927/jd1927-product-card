@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/JD1927/jd1927-product-card",
+    "type": "git"
+  },
+  "homepage": "https://jd1927-portfolio.netlify.app",
   "engines": {
     "node": ">=10"
   },
@@ -59,5 +64,10 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.5.0",
     "typescript": "^3.9.10"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "jd1927"
+  ]
 }
