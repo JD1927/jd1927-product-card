@@ -16,7 +16,17 @@ export interface Props {
   initialValues?: InitialValues;
 }
 
-export const ProductCard = ({ children, product, className, style, onChange, value, initialValues }: Props) => {
+export const ProductCard = (
+  {
+    children,
+    product,
+    className,
+    style,
+    onChange,
+    value,
+    initialValues
+  }: Props
+) => {
 
   const {
     counter,
