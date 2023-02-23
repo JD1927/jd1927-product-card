@@ -39,16 +39,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jd1927-product-card",
+  "name": "jdac-product-card",
   "author": "Juan Aguirre",
-  "module": "dist/jd1927-product-card.esm.js",
+  "module": "dist/jdac-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/jd1927-product-card.cjs.production.min.js",
+      "path": "dist/jdac-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/jd1927-product-card.esm.js",
+      "path": "dist/jdac-product-card.esm.js",
       "limit": "10 KB"
     }
   ],

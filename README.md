@@ -12,7 +12,7 @@ import {
   ProductImage,
   ProductTitle,
   ProductButtons,
-} from 'jd1927-product-card';
+} from 'jdac-product-card';
 ```
 
 ```
